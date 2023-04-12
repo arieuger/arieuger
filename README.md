@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Antía</h1>
 <h3 align="left">A backend developer and gamedev wannabe from Galicia with a visual arts and social studies background</h3>
 
-- 🔭 I’m currently working on IOT and Java apps, and trying to make small 2D games as side project
+  🔭 I’m currently working on IoT and Java apps, and trying to make small 2D games as side project
 
-- 🌱 I’m currently learning game development with Unity
+  🌱 I’m currently learning game development with Unity through an specialization course
 
-- 📫 How to reach me: antiaroig@gmail.com
+  📫 How to reach me: antiaroig@gmail.com
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
