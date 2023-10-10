@@ -3,7 +3,7 @@
 
   🔭 I’m currently working on IoT and Java apps, and trying to make small 2D games as side project
 
-  🌱 I’m currently learning game development with Unity through an specialization course
+  🌱 I’ve finished a game development specialization course using mainly Unity, and now I'm trying to improve my skills and keep learning
 
   📫 How to reach me: antiaroig@gmail.com
 
